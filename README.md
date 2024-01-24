@@ -3,6 +3,24 @@
 <body>
     <div align=center>                    
         <p>
+        <h3>Language</h3>
+        <table>
+            <th width="100">Logo</th>
+            <th width="120">Name</th>
+            <th width="250">Progress</th>
+            <tr align = "center">
+                <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" width="80" height="22"></td>
+                <td>JavaScript</td>
+                <td>🟦⬜️⬜️⬜️⬜️ ⬜️⬜️⬜️⬜️⬜️</td>
+            </tr>
+            <tr align = "center">
+                <td><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" width="80" height="22"></td>
+                <td>TypeScript</td>
+                <td>⬜️⬜️⬜️⬜️⬜️ ⬜️⬜️⬜️⬜️⬜️</td>
+            </tr>
+        </table>
+        </p>
+        <p>
             <h3>iOS Skill</h3>
             <table>
                 <th width="100">Logo</th>
@@ -35,16 +53,6 @@
                     <td><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" width="80" height="22"></td>
                     <td>CSS3</td>
                     <td>🟦⬜️⬜️⬜️⬜️ ⬜️⬜️⬜️⬜️⬜️</td>
-                </tr>
-                <tr align = "center">
-                    <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" width="80" height="22"></td>
-                    <td>JavaScript</td>
-                    <td>🟦⬜️⬜️⬜️⬜️ ⬜️⬜️⬜️⬜️⬜️</td>
-                </tr>
-                <tr align = "center">
-                    <td><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" width="80" height="22"></td>
-                    <td>TypeScript</td>
-                    <td>⬜️⬜️⬜️⬜️⬜️ ⬜️⬜️⬜️⬜️⬜️</td>
                 </tr>
                 <tr align = "center">
                     <td><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" width="80" height="22"></td>
